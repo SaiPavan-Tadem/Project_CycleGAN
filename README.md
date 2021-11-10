@@ -1,2 +1,3 @@
-This is an Implimentation of the original paper "Unpaired Image-to-Image Translation using
-Adversarial Consistency Loss"
+Arial to satellite data set
+Summer to winter data set
+Vangogh to Image data set
