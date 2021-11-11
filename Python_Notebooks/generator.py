@@ -11,7 +11,7 @@ import torch.nn as nn
 import numpy as np
 
 
-class Generator(torch.nn.Module):
+class Generator(nn.Module):
     def __init__(self,input_dim,num_filter,output_dim,num_resnet):
         super(Generator,self).__init__()
         
