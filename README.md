@@ -15,7 +15,7 @@ The aim of this project is to convert image in domain A to domain B and then bac
 ## Results
 class|sample output-1|sample output-2|
 |---|---|--|
-AeriaalToSatellite|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/Some_Test_Results/Map_SAT_1.png)|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/Some_Test_Results/Map_SAT_3.png)
+AerialToSatellite|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/Some_Test_Results/Map_SAT_1.png)|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/Some_Test_Results/Map_SAT_3.png)
 VangoghToPhoto|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/Some_Test_Results/VangoghToPhoto_1.png)|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/Some_Test_Results/VangoghToPhoto_3.png)
 SummerToWinter|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/Some_Test_Results/SummerToWinter_1.png)|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/Some_Test_Results/SummerToWinter_2.png)
 
