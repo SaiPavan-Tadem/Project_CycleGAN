@@ -7,7 +7,7 @@ you can also check [my project report here](https://github.com/SaiPavan-Tadem/Cy
 Collect the data set from [kaggle](https://www.kaggle.com/suyashdamle/cyclegan)
 class|Domain-A training data|DOmain B training Data|
 |---|---|--|
-AeriaalToSatellite|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/AerialToSatellite/33.jpg)|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/AerialToSatellite/195.jpg)
+AerialToSatellite|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/AerialToSatellite/33.jpg)|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/AerialToSatellite/195.jpg)
 VangoghToPhoto|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/VangoghToImage/00707.jpg)|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/VangoghToImage/2013-12-29%2023_48_10.jpg)
 SummerToWinter|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/SummerToWinter/2011-05-19%2017_27_18.jpg)|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/SummerToWinter/2010-03-29%2000_29_56.jpg)
 ## Method
