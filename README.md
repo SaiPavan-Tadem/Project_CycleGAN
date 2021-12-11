@@ -5,7 +5,7 @@ This is an implimented project,original paper is [unpaired image to image transl
 you can also check [my project report here](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/SaiPavan-CycleGAN-Report.pdf)
 ## Sample Test Images 
 Collect the data set from [kaggle](https://www.kaggle.com/suyashdamle/cyclegan)
-class|Domain-A training data|Domain B training Data|
+class|Domain-A training data|Domain-B training Data|
 |---|---|--|
 AerialToSatellite|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/AerialToSatellite/33.jpg)|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/AerialToSatellite/195.jpg)
 VangoghToPhoto|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/VangoghToImage/00707.jpg)|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/VangoghToImage/2013-12-29%2023_48_10.jpg)
