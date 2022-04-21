@@ -20,4 +20,4 @@ VangoghToPhoto|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/
 SummerToWinter|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/Some_Test_Results/SummerToWinter_1.png)|![Alt Text](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/Some_Test_Results/SummerToWinter_2.png)
 
 ## Conclusions
-cycleGAN is performing well in all cases but the resolution of generated images is little bit low(due to loss in translation),good research is needed to improve the quality.
+CycleGAN is performing well in all cases but the resolution of generated images is little bit low(due to loss in translation),good research is still needed to improve the quality.
