@@ -2,7 +2,7 @@
 # CycleGAN
 
 This is an implimented project with the reference of original paper [unpaired image to image translation using cycle conistance adversarial loss](https://arxiv.org/pdf/1703.10593.pdf).
-you can also check [my project report here](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/cyclegan%20report.pdf)
+you can also check [my project report here](https://github.com/SaiPavan-Tadem/CycleGAN/blob/main/Project%20Report.pdf)
 ## Sample Images 
 Collect the data set from [kaggle](https://www.kaggle.com/suyashdamle/cyclegan)
 class|Domain-A training data|Domain-B training Data|
